@@ -1,4 +1,3 @@
-#commentaierer
 bandit
 black
 fastapi 
