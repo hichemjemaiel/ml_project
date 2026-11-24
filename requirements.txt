@@ -1,0 +1,16 @@
+bandit
+black
+fastapi 
+flake8
+joblib
+jupyter
+matplotlib 
+mlflow 
+numpy 
+pandas 
+prefect
+pytest
+scikit-learn
+uvicorn
+fastapi
+uvicorn
